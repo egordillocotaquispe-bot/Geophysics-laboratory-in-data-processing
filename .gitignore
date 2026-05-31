@@ -1,0 +1,25 @@
+﻿Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+Entornos virtuales
+.env
+.venv
+env/
+venv/
+
+# VS Code
+.vscode/
+
+Datos sísmicos (no subas archivos pesados)
+*.sac
+*.txt
+*.csv
+
+Gradio
+gradio_cached/
+tmp/
+
+Claves secretas
+.env
